@@ -61,6 +61,7 @@ const AboutPage = () => {
         <Col xs="12">
           <h3>Community Partners</h3>
         </Col>
+        <PartnersList />
       </Row>
     </Container>
   );
