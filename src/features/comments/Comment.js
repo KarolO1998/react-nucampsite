@@ -1,4 +1,4 @@
-import { formatDate } from "../../utils/formatDate";
+import { formatDate } from "../../utils/formateDate.js";
 const Comment = ({ comment }) => {
   const { text: commentText, rating, author, date } = comment;
   return (

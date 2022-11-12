@@ -1,6 +1,7 @@
 import { Container } from "reactstrap";
 import DisplayList from "../features/display/DisplayList";
 import SubHeader from "../components/SubHeader";
+import CommentForm from '../features/comments/CommentForm'
 const HomePage = () => {
   return (
     <Container>
